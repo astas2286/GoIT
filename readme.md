@@ -129,4 +129,7 @@ Please ensure you have Node.js and MongoDB installed and properly configured bef
 
 - The server utilizes pagination for retrieving all books, allowing control over the page number and the number of books per page.
 - Request body validation is implemented using the Joi library to ensure the provided data follows the specified format and requirements.
-- Cross-Origin Resource Sharing (CORS) is enabled using the Cors middleware,
+- Cross-Origin Resource Sharing (CORS) is enabled using the Cors middleware, allowing cross-origin requests to the server.
+- The server utilizes the Mongoose library to connect to a MongoDB database and perform CRUD operations on the book collection.
+
+Feel free to explore the code in the repository to understand the implementation details. If you have any questions or need further assistance, please don't hesitate to reach out.
