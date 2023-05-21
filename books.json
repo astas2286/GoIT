@@ -1,0 +1,122 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer"
+  },
+  {
+    "title": "Кобзар",
+    "author": "Тарас Шевченко"
+  },
+  {
+    "title": "Сад Гетсиманський",
+    "author": "Михайло Стельмах"
+  },
+  {
+    "title": "Чорна рада",
+    "author": "Іван Франко"
+  },
+  {
+    "title": "Маруся",
+    "author": "Марко Вовчок"
+  },
+  {
+    "title": "Тигролови",
+    "author": "Іван Багряний"
+  },
+  {
+    "title": "Захар Беркут",
+    "author": "Іван Франко"
+  },
+  {
+    "title": "Сон",
+    "author": "Михайло Коцюбинський"
+  },
+  {
+    "title": "Повість минулих літ",
+    "author": "Михайло Коцюбинський"
+  },
+  {
+    "title": "Місто",
+    "author": "Валер'ян Підмогильний"
+  },
+  {
+    "title": "Тигролови",
+    "author": "Іван Багряний"
+  },
+  {
+    "title": "Хіба ревуть воли, як ясла повні?",
+    "author": "Василь Стус"
+  },
+  {
+    "title": "Дорогою ціною",
+    "author": "Олесь Ульяновський"
+  },
+  {
+    "title": "Бурлеск",
+    "author": "Микола Хвильовий"
+  },
+  {
+    "title": "Собор",
+    "author": "Олена Пчілка"
+  },
+  {
+    "title": "Хазяїн",
+    "author": "Олександр Копиленко"
+  },
+  {
+    "title": "Щоденникові записки",
+    "author": "Михайло Грушевський"
+  },
+  {
+    "title": "Тіні забутих предків",
+    "author": "Олександр Довженко"
+  },
+  {
+    "title": "Заповіт",
+    "author": "Леся Українка"
+  },
+  {
+    "title": "Мартин Боруля",
+    "author": "Панас Мирний"
+  },
+  {
+    "title": "Щастя починається з ранку",
+    "author": "Ірина Вільде"
+  }
+]
